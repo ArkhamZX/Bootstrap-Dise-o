@@ -1,5 +1,6 @@
 {
     "workbench.iconTheme": "vscode-icons",
     "workbench.colorTheme": "Monokai Pro",
-    "material-icon-theme.showUpdateMessage": true
+    "material-icon-theme.showUpdateMessage": true,
+    "liveServer.settings.port": 5501
 }
